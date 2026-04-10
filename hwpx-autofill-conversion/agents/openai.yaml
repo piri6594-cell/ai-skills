@@ -1,0 +1,4 @@
+interface:
+  display_name: "HWPX Autofill"
+  short_description: "Inspect HWPX templates, choose a fill engine, and validate the output copy."
+  default_prompt: "Use $hwpx-autofill-conversion to inspect the attached .hwpx template first, choose the safest fill path, preserve its structure, and validate the filled copy before delivery."

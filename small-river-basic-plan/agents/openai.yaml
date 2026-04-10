@@ -1,0 +1,4 @@
+interface:
+  display_name: "Small River Basic Plan"
+  short_description: "Samyeong-format report drafting for small rivers."
+  default_prompt: "Use $small-river-basic-plan to inspect the existing report files, preserve the Samyeong report format, and generate a safe copy with the requested report changes."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Civil Quantity Calculator"
+  short_description: "Excel quantity takeoff for detailed design."
+  default_prompt: "Use $civil-quantity-calculator to inspect the existing quantity takeoff workbooks, preserve the Excel pattern, and generate a safe copy with the requested quantity updates."

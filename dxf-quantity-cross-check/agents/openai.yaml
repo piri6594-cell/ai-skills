@@ -1,0 +1,4 @@
+interface:
+  display_name: "DXF Quantity Check"
+  short_description: "Compare DXF leader text against quantity workbooks"
+  default_prompt: "Use $dxf-quantity-cross-check to compare DXF layout-tab quantity notes with the takeoff Excel files and deliver a separate review workbook."

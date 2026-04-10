@@ -1,0 +1,15 @@
+{
+  "text_replacements": {
+    "[성명]": "홍길동"
+  },
+  "label_fills": [
+    {
+      "label": "성명",
+      "direction": "right",
+      "value": "홍길동"
+    }
+  ],
+  "expected_text": [
+    "홍길동"
+  ]
+}
